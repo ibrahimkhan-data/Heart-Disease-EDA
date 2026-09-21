@@ -106,12 +106,6 @@ B.Tech — Artificial Intelligence & Data Science
 
 ---
 
-## Note on AI Assistance
-
-This project was built as a learning exercise. Dataset choice and direction were mine, and an AI assistant was used to scaffold the notebook and draft this README.
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
