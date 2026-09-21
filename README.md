@@ -21,7 +21,7 @@
 
 ## 📖 Overview
 
-A beginner-friendly EDA project on the [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) — 303 patient records with 13 clinical features. No modeling here, just structured exploration: inspecting the data, visualizing distributions, and comparing features against heart disease status.
+A beginner-friendly EDA project on the [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) — 303 patient records with 13 clinical features. Here we are exploring the structured dataset for: inspecting the data, visualizing distributions, and comparing features against heart disease status.
 
 ---
 
